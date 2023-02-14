@@ -1,4 +1,4 @@
-package ch01.sec11;
+package ch01.sec01;
 
 public class MainShortCut {
 	//main

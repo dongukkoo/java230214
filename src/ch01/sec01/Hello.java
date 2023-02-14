@@ -1,4 +1,4 @@
-package ch01.sec11;
+package ch01.sec01;
 /**
  * @author 여러분의 이름
  */
