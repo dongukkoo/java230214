@@ -2,7 +2,7 @@ package bj_test;
 
 import java.util.Scanner;
 
-public class C11021 {
+public class C10950 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
@@ -11,10 +11,8 @@ public class C11021 {
 		for(int i = 1; i<=t; i++) {
 			int a = scanner.nextInt();
 			int b = scanner.nextInt();
-			
-			System.out.println("Case #" + i + ": " + a + " + " + b + " = " + (a+b));
+			System.out.println(a+b);
 		}
-		
 		
 		
 	}
