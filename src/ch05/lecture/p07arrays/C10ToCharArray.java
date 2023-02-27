@@ -13,11 +13,11 @@ public class C10ToCharArray {
 		
 		System.out.println(arr2[1]);
 		
-		switch(arr2) {
-		
-		}
-		
-		System.out.println(Arrays.toString(arr2));
-				
+//		switch(arr2) {
+//		
+//		}
+//		
+//		System.out.println(Arrays.toString(arr2));
+//				
 	}
 }
