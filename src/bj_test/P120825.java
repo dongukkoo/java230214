@@ -6,11 +6,9 @@ public class P120825 {
 		int n = 3;
 		
 		for(int i = 0; i<my_string.length(); i++) {
-			for(int j = i; j<n; ) {
-			System.out.print(my_string.substring(j,j+1));
-			
+			for(int j = 0; j<n; j++) {
+				System.out.print(my_string.substring(i,i+1));
+			}
 		}
-	
 	}
-}
 }
