@@ -14,7 +14,7 @@ public class ActionExample {
 	}	
 }
 
-public interface Action{
+public interface Action {
 	public void work();
 }
 
