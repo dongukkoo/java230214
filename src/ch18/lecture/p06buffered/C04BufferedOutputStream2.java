@@ -4,6 +4,7 @@ import java.io.*;
 
 public class C04BufferedOutputStream2 {
 	public static void main(String[] args) {
+		
 		String name = "output/buffered1.txt";
 		try (InputStream fis = new FileInputStream(name);
 				) {
